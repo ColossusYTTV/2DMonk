@@ -5,4 +5,4 @@ A Gorilla Tag mod that turning your game into a 2D platformer!
 ![Capture3](https://user-images.githubusercontent.com/91232680/194731395-8e7e0d78-f6ae-47e3-9923-4f2b3acef64f.PNG)
 
 # How To Install
-1: Put it into your plugin folder dumby
+1: Put the DLL into your plugin folder dumby
